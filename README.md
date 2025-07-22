@@ -1,6 +1,6 @@
 # 🤖 Tia's Agentic AI Assistant
 
-A personalized AI chatbot built with **Streamlit**, designed to guide Tia in mastering **DSA**, **Full Stack Development**, and **Data Science**. The assistant adapts based on selected learning mode and gives actionable, focused replies. It also supports chat history persistence and auto-saves the chat to a `.txt` journal.
+A personalized AI chatbot built with **Streamlit**, designed to guide Tia in mastering **DSA**, **Full Stack Development**, and **Data Science**. The assistant adapts based on selected learning mode and gives actionable, focused replies. It also supports chat history persistence.
 
 ---
 
